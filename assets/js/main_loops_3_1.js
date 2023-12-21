@@ -13,20 +13,3 @@ let separation = (text, x) => {
 }
 
 console.log(separation(text1, 100));
-
-
-
-
-
-
-// let textSplit = null
-// let slicePush = () => {
-//     let slicedText = text.slice(0, 100)
-    
-//     for (let i of slicedText) {
-//         textSplit = slicedText.split()
-        
-//     }
-//     console.log(textSplit);
-// }
-// slicePush()
